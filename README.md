@@ -5,11 +5,12 @@
 Olá! Meu nome é Khadija, tenho 19 anos e moro em São Paulo. Atualmente, estou cursando Engenharia de Software na FIAP e até o presente momento estou estagiando na área de TI.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/khadija-lima-8215672b7/">
+    <p align="left">
+    <a href="https://www.linkedin.com/in/khadija-lima-8215672b7/" target="_blank">
         <img 
             alt="LinkedIn" 
-            title="Meu Linkedin" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://github.com/KDMint?tab=repositories&sort=stargazers">
