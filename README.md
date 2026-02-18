@@ -2,10 +2,9 @@
 
 **`Desenvolvedora FullStack`**
 
-Olá! Meu nome é Khadija, tenho 19 anos e moro em São Paulo. Atualmente, estou cursando Engenharia de Software na FIAP e até o presente momento estou estagiando na área de TI.
+Olá! Meu nome é Khadija, tenho 20 anos e moro em São Paulo. Curso Engenharia de Software na FIAP e atualmente estou estagiando na área de TI, desenvolvendo sistemas com Python/Django.
 
 <p align="left">
-    <p align="left">
     <a href="https://www.linkedin.com/in/khadija-lima-8215672b7/" target="_blank">
         <img 
             alt="LinkedIn" 
@@ -41,29 +40,79 @@ Olá! Meu nome é Khadija, tenho 19 anos e moro em São Paulo. Atualmente, estou
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
     />
     <img 
-        alt="HTML" 
-        title="HTML" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-    />
-    <img 
-        alt="CSS" 
-        title="CSS" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-    />
-    <img 
         alt="JavaScript" 
         title="JavaScript" 
         width="30px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
     />
     <img 
-        alt="C++" 
-        title="C++" 
+        alt="TypeScript" 
+        title="TypeScript" 
         width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
     />
+    <img 
+        alt="Django" 
+        title="Django" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" 
+    />
+    <img 
+        alt="NestJS" 
+        title="NestJS" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" 
+    />
+    <img 
+        alt="Next.js" 
+        title="Next.js" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
+    />
+    <img 
+        alt="React" 
+        title="React" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+    />
+    <img 
+        alt="PostgreSQL" 
+        title="PostgreSQL" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+    />
+    <img 
+        alt="Docker" 
+        title="Docker" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+    />
+    <img 
+        alt="Linux" 
+        title="Linux" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+    />
+    <img 
+        alt="Git" 
+        title="Git" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+    />
+</p>
+
+---
+
+## 🚀 Projetos
+LexiType (Dez. 2025 – Atualmente)
+Jogo de digitação em tempo real com autenticação JWT, verificação de e-mail e testes E2E.
+<p>
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+  <img alt="Next.js 15" src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img alt="React 19" src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
 </p>
 
 ---
