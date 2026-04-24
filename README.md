@@ -16,7 +16,7 @@
 
 </div>
 
-Hello! My name is Khadija, I'm 20 years old and I live in São Paulo, Brazil. I'm studying **Software Engineering** at FIAP and currently interning in IT.
+Hello! My name is Khadija, I'm 20 years old and I live in São Paulo, Brazil. I'm studying **Software Engineering** at FIAP.
 
 <div align="center">
   
