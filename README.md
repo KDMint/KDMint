@@ -32,7 +32,7 @@ Hello! My name is Khadija, I'm 20 years old and I live in São Paulo, Brazil. I'
 
 <div align="center">
 
-![languages-default](https://stats.pphat.top/languages?username=pphatdev)
+![languages-default](https://stats.pphat.top/languages?username=KDMint)
 
 ### 🚀 Frameworks & Libraries
 </div>
